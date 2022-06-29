@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+main {
+    width: 100vw;
+    height: 100vh;
+    background-color:rgb(243,244,246);
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.main-frame {
+    width: 70vw;
+    height: 70vh;
+    background-color: white;
+    border: 1px solid black;
+}
+
